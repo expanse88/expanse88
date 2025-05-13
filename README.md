@@ -2,9 +2,11 @@
 
 Welcome to my Technological Space!!
 
-Tools that I know -
+Tools that I know ----
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+             
           
 
 <!--
