@@ -3,9 +3,12 @@
 Welcome To My Technological Space!!
 
 Tools that I know ---- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
+
+  <img src="https://iconduck.com/icons/13084/java-original/download/svg" alt="Java" width="40"/>
+  
+  <img src="https://iconduck.com/icons/316645/c-programming/download/svg" alt="C" width="40"/>
+ 
 
              
           
