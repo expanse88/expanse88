@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my Technological Space!!
+
+Tools that I know -
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
 <!--
 **expanse88/expanse88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
