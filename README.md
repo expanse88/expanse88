@@ -11,12 +11,15 @@ Tools that I know ----
   
 
 
-<img src="https://iconduck.com/icons/13084/java-original/download/svg" alt="Java" width="40"/>
-  
+ <!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
 
 
 
-  <img src="https://iconduck.com/icons/316645/c-programming/download/svg" alt="C" width="40"/>
+   
  
 
              
